@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "104674584392",
+    "project_id": "flash-chat-40378",
+    "storage_bucket": "flash-chat-40378.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104674584392:android:7d811bb49067fee85b357d",
+        "android_client_info": {
+          "package_name": "com.nischal_yu.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104674584392-itpobgl0t4p8audhjm5b2isrbvtnh8mt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGLyRzi1MFlNXVzUTAWnz7iAxXiwi9DwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104674584392-itpobgl0t4p8audhjm5b2isrbvtnh8mt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
